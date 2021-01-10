@@ -1,0 +1,58 @@
+{
+    "recipes": [
+        {
+            "name": "Old-Fashioned",
+            "ingredientList": [
+                {
+                    "ingredient": "sugar-cube",
+                    "measure": 1,
+                    "unit": "sugar-cube"
+                },
+                {
+                    "ingredient": "angostura bitters",
+                    "measure": 2,
+                    "unit": "dash"
+                },
+                {
+                    "ingredient": "bourbon",
+                    "measure": 2,
+                    "unit": "oz"
+                }
+            ],
+            "garnishList": [
+                {
+                    "garnish": "lemon twist",
+                    "measure": 1,
+                    "unit": "twist"
+                },
+                {
+                    "garnish": "orange twist",
+                    "measure": 1,
+                    "unit": "twist"
+                }
+            ]
+        },
+        {
+            "name": "Gin Martini",
+            "ingredientList": [
+                {
+                    "ingredient": "gin",
+                    "measure": 2,
+                    "unit": "oz"
+                },
+                {
+                    "ingredient": "dry vermouth",
+                    "measure": 0.75,
+                    "unit": "oz"
+                }
+            ],
+            "garnishList": [
+                {
+                    "garnish": "lemon twist",
+                    "measure": 1,
+                    "unit": "twist"
+                }
+            ]
+        }
+    ]
+}
